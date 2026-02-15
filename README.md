@@ -44,3 +44,16 @@ The objective was to convert raw HR data into KPI-driven insights and propose st
 ## 🔹 Outcome
 This project demonstrates end-to-end data analytics workflow:
 Data Cleaning → KPI Creation → Dashboarding → Insight Generation → Strategic Recommendations.
+
+---
+
+## 📌 Dashboard Preview
+
+### 🔹 Power BI Dashboard
+![Power BI](Power bi dashboard.png)
+
+### 🔹 Excel Dashboard
+![Excel](Excel dashboard.png)
+
+### 🔹 Tableau Dashboard
+![Tableau](Tableau Dashboard.png)
