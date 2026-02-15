@@ -57,3 +57,11 @@ Data Cleaning → KPI Creation → Dashboarding → Insight Generation → Strat
 
 ### 🔹 Tableau Dashboard
 ![Tableau](Tableau Dashboard.png)
+
+## 🔹 Repository Structure
+
+- /SQL → Data cleaning & KPI queries
+- /PowerBI → Interactive dashboard (.pbix)
+- /Tableau → Visual analytics dashboard (.twbx)
+- /Presentation → Final business presentation
+- /Screenshots → Dashboard previews
